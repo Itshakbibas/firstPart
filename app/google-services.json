@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486763328296",
+    "firebase_url": "https://firstpart-dfa4d.firebaseio.com",
+    "project_id": "firstpart-dfa4d",
+    "storage_bucket": "firstpart-dfa4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486763328296:android:4cf92500f02880f53a161d",
+        "android_client_info": {
+          "package_name": "com.example.firstpart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486763328296-cho1feg3c9amb4rmagleiurbuf72vgpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyCtvbSzby4eJ6-aWxromzkNC6rI7lrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486763328296-cho1feg3c9amb4rmagleiurbuf72vgpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
